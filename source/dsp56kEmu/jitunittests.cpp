@@ -1,3 +1,4 @@
+#include <functional> 
 #include "jitunittests.h"
 
 #include "jitblock.h"
